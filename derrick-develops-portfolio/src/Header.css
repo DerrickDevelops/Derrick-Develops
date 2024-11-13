@@ -1,0 +1,13 @@
+.main {
+    /* background: rgb(48,184,82);
+background: radial-gradient(circle, rgba(48,184,82,1) 0%, rgba(218,255,218,1) 48%); */
+}
+
+h1 {
+    font-size: 6rem;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 5rem;
+    color: #888;
+    opacity: 80%;
+}
