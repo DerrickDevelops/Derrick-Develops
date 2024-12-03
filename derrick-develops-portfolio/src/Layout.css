@@ -1,6 +1,13 @@
+* {
+  outline: 2px solid red;
+}
+
 .main {
+  display: grid;
+}
+
+.hero-section {
     display: grid;
     place-items: center;
     height: 100vh;
-    outline: 2px solid red;
   }

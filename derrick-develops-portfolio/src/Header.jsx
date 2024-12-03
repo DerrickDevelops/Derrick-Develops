@@ -7,7 +7,7 @@ function Header() {
 
   return (
     <>
-      <div className='main'>
+      <div className='hero-section'>
         <h1>Good<br />Morning</h1>
         <div className='cards'>
           <div className='info-card'><p>I'm Derrick, my passion is to develop & design website's.</p></div>
